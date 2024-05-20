@@ -235,7 +235,7 @@ export default class UtilityHandler {
 
     get categories(): Categories {
         return {
-            killCount: ['kc10k', 'kc20k', 'kc30k', 'kc40k', 'kc50k', 'kc60k', 'kc70k'],
+            killCount: ['kc10k', 'kc20k', 'kc30k', 'kc40k', 'kc50k', 'kc60k', 'kc70k', 'kc80k', 'kc90k'],
             collectionLog: ['ofThePraesul', 'goldenPraesul'],
         }
     }
